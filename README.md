@@ -1,8 +1,8 @@
-##README
+README
 
 
 
-##Assignment Overview:
+Assignment Overview:
 
 
 
@@ -31,25 +31,25 @@ Part 2 - Transform the Data: transform_data.ipynb
 Part 3 - Confirm Your Work: confirm_work.ipynb
 Part 4 - Summarize and Analyze: summarize_analyze.ipynb
 
-##Data Source:
+Data Source:
 
 The dataset used for this analysis is stored in a CSV file named data.csv.
 
-##Results:
+Results:
 
 Upon completion of each part of the challenge, the results are summarized in the respective Jupyter Notebook files mentioned above.
 
-##Summary:
+Summary:
 
 In this data analysis challenge, we explored, transformed, and analyzed a dataset using Pandas in Python. We addressed questions related to the dataset, transformed the data for easier analysis, confirmed our transformations against provided receipts, and summarized our findings. The analysis provides insights into the top clients, their spending patterns, and the profitability of the business.
 
 For grading purposes, the GitHub repository URL for this assignment submission is provided below.
 
-#GitHub Repository URL: https://github.com/walterehickmanII/pandas-challenge-1.git
+GitHub Repository URL: https://github.com/walterehickmanII/pandas-challenge-1.git
 
 https://github.com/walterehickmanII/pandas-challenge-1/commits?author=walterehickmanII
 
-##Note:
+Note:
 
 Please refer to the individual Jupyter Notebook files for detailed code implementations and explanations corresponding to each part of the challenge.
 
