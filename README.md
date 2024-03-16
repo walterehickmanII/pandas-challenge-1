@@ -45,7 +45,7 @@ In this data analysis challenge, we explored, transformed, and analyzed a datase
 
 For grading purposes, the GitHub repository URL for this assignment submission is provided below.
 
-#GitHub Repository URL:
+#GitHub Repository URL: https://github.com/walterehickmanII/pandas-challenge-1.git
 
 [Your GitHub Repository URL]
 
