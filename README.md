@@ -12,7 +12,7 @@ Code Source:
 
 All code in this repository is authored by Walter E. Hickman Jr.
 
-Code Location: README
+Code Location: [README](https://github.com/walterehickmanII/pandas-challenge-1/commits?author=walterehickmanII)
 
 Assignment Overview:
 
