@@ -47,7 +47,7 @@ For grading purposes, the GitHub repository URL for this assignment submission i
 
 #GitHub Repository URL: https://github.com/walterehickmanII/pandas-challenge-1.git
 
-[Your GitHub Repository URL]
+https://github.com/walterehickmanII/pandas-challenge-1/commits?author=walterehickmanII
 
 ##Note:
 
