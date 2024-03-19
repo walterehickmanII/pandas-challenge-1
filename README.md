@@ -52,4 +52,4 @@ https://github.com/walterehickmanII/pandas-challenge-1/commits?author=walterehic
 Note:
 
 Please refer to the individual Jupyter Notebook files for detailed code implementations and explanations corresponding to each part of the challenge.
-
+During my findings the largest manufacturer not only have the highest profit margins by far and spends more on product. Also more than likely they are make huge profits on shipping.  
